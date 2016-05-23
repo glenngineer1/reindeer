@@ -10,9 +10,9 @@ for (var i = 0; i < colors.length; i++) {
   }
       var colorsList = colors[i];
       var reindeerList = reindeer[i];
-  hohohoElementRevised = colorsList + " " + reindeerList;
-  console.log(hohohoElementRevised);
-  document.getElementById("reindeer").innerHTML += "<div>" + colorsList + " " + reindeerList + "</div>";
+      hohohoElement.innerHTML += "<div> " + colorsList + " " + reindeerList + "</div>";
+  // hohohoElementRevised = colorsList + " " + reindeerList;
+  // console.log(hohohoElementRevised);
+  // document.getElementById("reindeer").innerHTML += "<div>" + colorsList + " " + reindeerList + "</div>";
 }
-
 

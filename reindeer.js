@@ -13,6 +13,7 @@ for (var i = 0; i < colors.length; i++) {
       hohohoElement.innerHTML += "<div> " + colorsList + " " + reindeerList + "</div>";
   // hohohoElementRevised = colorsList + " " + reindeerList;
   // console.log(hohohoElementRevised);
+  // console.log("", );
   // document.getElementById("reindeer").innerHTML += "<div>" + colorsList + " " + reindeerList + "</div>";
 }
 
